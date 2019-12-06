@@ -3,7 +3,7 @@
 This is template for coding task to be done prior interview
 
 ## TASK
-- write selenium code to automate the following scenario
+- write automated test (using Selenium) to cover the following scenario
 - use page object pattern
 - use preferred language (we are using Java)
 - deliver code as pull request to this repository (please rembemer that on github you need to fork repo first)
